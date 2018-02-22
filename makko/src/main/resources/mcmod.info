@@ -1,0 +1,16 @@
+[
+{
+  "modid": "makko",
+  "name": "Makko",
+  "description": "Makko can easily make mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["mgq_"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
